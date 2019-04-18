@@ -1,0 +1,28 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "website for graphic desinger called bob smith",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuzC786/bobsmith.git"
+  },
+  "keywords": [
+    "small",
+    "node",
+    "project"
+  ],
+  "author": "muzamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuzC786/bobsmith/issues"
+  },
+  "homepage": "https://github.com/MuzC786/bobsmith#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express.js": "^1.0.0"
+  }
+}
